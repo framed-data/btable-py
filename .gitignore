@@ -1,0 +1,6 @@
+*.pyc
+.vagrant
+*.vhd
+build
+dist
+btable_py.egg-info
